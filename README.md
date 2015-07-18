@@ -10,3 +10,4 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch/). Create pull
 
 ## 2015
 * Kd Johar: **Asynchronous Task Handling With Celery** (8th August)
+   * presentation: coming soon
