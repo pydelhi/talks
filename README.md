@@ -7,3 +7,5 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch/). Create pull
     * [presentation](https://docs.google.com/presentation/d/1yesEE3ScAsJ3L8AkNMTvEZfOcblBkyVVu1JG0KeCG-4/edit?usp=sharing)
     * Video: coming soon
     * [Slides and article](http://bit.ly/testing-101)
+* Geetika Batra: **OpenStack** (8th August)
+    * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
