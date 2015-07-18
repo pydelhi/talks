@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Testing 101",
+    "presenter": "Saurabh Kumar",
+    "year": 2015,
+    "venue": "PyDelhi",
+    "slides": "http://bit.ly/testing-101",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=SV9RPbgJ4Ts"
+    },
+    "tags": ["testing", "pytest"]
+  }
+]
