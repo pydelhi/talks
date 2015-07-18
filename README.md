@@ -18,10 +18,15 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * [Presentation](http://bit.ly/django2pyramid)
     * Video: [Youtube](https://www.youtube.com/watch?v=a2Llc1EGGA4)
 
+* Geetika Batra: **OpenStack** ([2015-08-22])
+    * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
+
 
 [2015-08-08]: http://www.meetup.com/pydelhi/events/224203701/
 [2015-07-25]: http://www.meetup.com/pydelhi/events/223938944/
 [2015-07-11]: http://www.meetup.com/pydelhi/events/223783592/
+[2015-07-11]: http://www.meetup.com/pydelhi/events/223783592/
+[2015-08-22]: http://www.meetup.com/pydelhi/events/224668752/
 
 [PyDelhi]: https://pydelhi.org/
 [Talks]: https://pydelhi.org/talks/
