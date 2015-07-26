@@ -6,6 +6,6 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch/). Create pull
 
 ## 2015
 * Saurabh Kumar: **Testing 101** (11th July)
-    * [presentation](https://docs.google.com/presentation/d/1yesEE3ScAsJ3L8AkNMTvEZfOcblBkyVVu1JG0KeCG-4/edit?usp=sharing)
-    * Video: coming soon
+    * [Presentation](https://docs.google.com/presentation/d/1yesEE3ScAsJ3L8AkNMTvEZfOcblBkyVVu1JG0KeCG-4/edit?usp=sharing)
+    * Video: [Youtube](https://www.youtube.com/watch?v=_pX8LaMKNBk)
     * [Slides and article](http://bit.ly/testing-101)
