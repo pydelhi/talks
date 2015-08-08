@@ -1,0 +1,15 @@
+Code Contributors
+=================
+
+Saurabh Kumar (gh: theskumar / @_theskumar)*
+
+* Possesses commit rights
+
+Video Management
+=================
+Vinay Dahiya (gh: vinaykrdahiya / @01_vkd)
+
+Special Thanks
+===============
+
+The following haven't provided code directly, but have provided guidance and advice.
