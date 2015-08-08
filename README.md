@@ -1,6 +1,6 @@
 Talks at PyDelhi
 ================
-[![Stories in Ready](https://badge.waffle.io/pydelhi/talks.png?label=ready&title=Ready)](https://waffle.io/pydelhi/talks)
+ [![Open Issues](https://img.shields.io/github/issues/pydelhi/talks.svg)](https://github.com/pydelhi/talks/issues?q=is%3Aopen+)
 
 Inspired by [py-must-watch](https://github.com/s16h/py-must-watch/). Create pull-requests to add more talks :-)
 
