@@ -1,4 +1,4 @@
-Talks at PyDelhi
+[PyDelhi] - [Talks]
 ================
  [![Open Issues](https://img.shields.io/github/issues/pydelhi/talks.svg)](https://github.com/pydelhi/talks/issues?q=is%3Aopen+)
 
@@ -16,3 +16,6 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch/). Create pull
 
 [2015-07-25]: http://www.meetup.com/pydelhi/events/223938944/
 [2015-07-11]: http://www.meetup.com/pydelhi/events/223783592/
+
+[PyDelhi]: https://pydelhi.org/
+[Talks]: https://pydelhi.org/talks/
