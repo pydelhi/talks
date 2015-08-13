@@ -14,6 +14,12 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch/). Create pull
     * [Presentation](https://docs.google.com/presentation/d/1M0s8TCEtJk_a_rf36FPMefwGVvK_R8_63UupIfylJjw/edit?usp=sharing)
     * Video: under processing...
 
+* Pankaj Singh: __Moving from Django to Pyramid__ ([2015-08-08])
+    * [Presentation](https://docs.google.com/presentation/d/1RgJzsiv5PJVmAM_57X6nSCx9Ga1GpP9Y13Rn8GiK_7s/edit?pli=1)
+    * Video: under processing...
+
+
+[2015-08-08]: http://www.meetup.com/pydelhi/events/224203701/
 [2015-07-25]: http://www.meetup.com/pydelhi/events/223938944/
 [2015-07-11]: http://www.meetup.com/pydelhi/events/223783592/
 
