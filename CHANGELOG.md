@@ -4,6 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 ### Added 
+- Add license to README.
 - `humans.txt` to recognize the human efforts behind this project.
 - Open issues count badge
 - This CHANGELOG file, based on the guidelines from http://keepachangelog.com/.
