@@ -11,8 +11,8 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * [Slides and article](http://bit.ly/testing-101)
 
 * Anurag Sharma: __Prospector__ ([2015-07-25])
-    * [Presentation](https://docs.google.com/presentation/d/1M0s8TCEtJk_a_rf36FPMefwGVvK_R8_63UupIfylJjw/edit?usp=sharing)
-    * Video: under processing...
+    * [Presentation](http://bit.ly/prospector-talk)
+    * Video: [Youtube](https://www.youtube.com/watch?v=CnUvdSusebE)
 
 * Pankaj Singh: __Moving from Django to Pyramid__ ([2015-08-08])
     * [Presentation](https://docs.google.com/presentation/d/1RgJzsiv5PJVmAM_57X6nSCx9Ga1GpP9Y13Rn8GiK_7s/edit?pli=1)
