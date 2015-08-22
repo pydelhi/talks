@@ -15,8 +15,8 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * Video: [Youtube](https://www.youtube.com/watch?v=CnUvdSusebE)
 
 * Pankaj Singh: __Moving from Django to Pyramid__ ([2015-08-08])
-    * [Presentation](https://docs.google.com/presentation/d/1RgJzsiv5PJVmAM_57X6nSCx9Ga1GpP9Y13Rn8GiK_7s/edit?pli=1)
-    * Video: under processing...
+    * [Presentation](http://bit.ly/django2pyramid)
+    * Video: [Youtube](https://www.youtube.com/watch?v=a2Llc1EGGA4)
 
 
 [2015-08-08]: http://www.meetup.com/pydelhi/events/224203701/
