@@ -4,6 +4,11 @@
 
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
+## 2016
+* [Shagun Sodhani](https://shagunsodhani.in): **Introduction to PySpark** ([2016-03-19])
+    * [Presentation](http://slides.com/shagunsodhani/introduction-to-pyspark/)
+    * [Demo Code](http://bit.ly/PySpark)
+
 ## 2015
 * Saurabh Kumar: **Testing 101** ([2015-07-11])
     * [Presentation](https://docs.google.com/presentation/d/1yesEE3ScAsJ3L8AkNMTvEZfOcblBkyVVu1JG0KeCG-4/edit?usp=sharing)
@@ -22,6 +27,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
 
 
+[2016-03-19]: http://www.meetup.com/pydelhi/events/226049222/
 [2015-08-08]: http://www.meetup.com/pydelhi/events/224203701/
 [2015-07-25]: http://www.meetup.com/pydelhi/events/223938944/
 [2015-07-11]: http://www.meetup.com/pydelhi/events/223783592/
