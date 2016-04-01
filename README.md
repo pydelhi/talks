@@ -26,6 +26,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 * Geetika Batra: **OpenStack** ([2015-08-22])
     * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
 
+* Amit Sethi: **Scipy** ([2015-09-19])
+    * [presentation and resources](https://www.dropbox.com/sh/nhzw0dzz0o7wf76/AACnTWM44W6LcuAMhBNpB09Ta?dl=0)
+
 
 [2016-03-19]: http://www.meetup.com/pydelhi/events/226049222/
 [2015-08-08]: http://www.meetup.com/pydelhi/events/224203701/
@@ -33,6 +36,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 [2015-07-11]: http://www.meetup.com/pydelhi/events/223783592/
 [2015-07-11]: http://www.meetup.com/pydelhi/events/223783592/
 [2015-08-22]: http://www.meetup.com/pydelhi/events/224668752/
+[2015-09-19]: http://www.meetup.com/pydelhi/events/225301969/
 
 [PyDelhi]: https://pydelhi.org/
 [Talks]: https://pydelhi.org/talks/
