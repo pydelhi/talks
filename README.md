@@ -5,7 +5,7 @@
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
 ## 2016
-* [Amit Kumar](https://iamit.in): **Demystifying Python MRO** ([2016-04-02])
+* [Amit Kumar](http://iamit.in): **Demystifying Python MRO** ([2016-04-02])
     * [Presentation](http://slides.com/aktech/python-mro/#/)
 
 * [Shagun Sodhani](https://shagunsodhani.in): **Introduction to PySpark** ([2016-03-19])
