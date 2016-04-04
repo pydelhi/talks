@@ -5,6 +5,9 @@
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
 ## 2016
+* [Amit Kumar](http://iamit.in): **Demystifying Python MRO** ([2016-04-02])
+    * [Presentation](http://slides.com/aktech/python-mro/#/)
+
 * [Shagun Sodhani](https://shagunsodhani.in): **Introduction to PySpark** ([2016-03-19])
     * [Presentation](http://slides.com/shagunsodhani/introduction-to-pyspark/)
     * [Demo Code](http://bit.ly/PySpark)
@@ -27,6 +30,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
 
 
+[2016-04-02]: http://www.meetup.com/pydelhi/events/226049223/
 [2016-03-19]: http://www.meetup.com/pydelhi/events/226049222/
 [2015-08-08]: http://www.meetup.com/pydelhi/events/224203701/
 [2015-07-25]: http://www.meetup.com/pydelhi/events/223938944/
