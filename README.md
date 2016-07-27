@@ -12,6 +12,10 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * [Presentation](http://slides.com/shagunsodhani/introduction-to-pyspark/)
     * [Demo Code](http://bit.ly/PySpark)
 
+* [Aniket Maithani](http://www.aniketmaithani.net): **Design Elements in Python** 
+    * [Presentation](https://docs.google.com/presentation/d/1Z06eZiux55FPdTbTRaCvtZPLSqh8y1sMi3ztKfcmIBY/edit?usp=sharing)
+
+
 ## 2015
 * Saurabh Kumar: **Testing 101** ([2015-07-11])
     * [Presentation](https://docs.google.com/presentation/d/1yesEE3ScAsJ3L8AkNMTvEZfOcblBkyVVu1JG0KeCG-4/edit?usp=sharing)
