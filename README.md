@@ -5,6 +5,10 @@
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
 ## 2016
+
+* [Aniket Maithani](http://www.aniketmaithani.net): **IoT & Python** ([2016-09-03])
+    * [Presentation](https://drive.google.com/open?id=0B3LQS5ZvGd69YkMwUVdYcGRhckk)
+
 * [Amit Kumar](http://iamit.in): **Introducing MetaClasses** ([2016-05-28])
     * [Presentation](http://slides.com/aktech/introducing-metaclasses-in-python#/)
 
@@ -36,7 +40,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 * Geetika Batra: **OpenStack** ([2015-08-22])
     * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
 
-
+[2016-09-03]: https://www.meetup.com/pydelhi/events/226342885/
 [2016-05-28]: http://www.meetup.com/pydelhi/events/226342855/
 [2016-04-02]: http://www.meetup.com/pydelhi/events/226049223/
 [2016-03-19]: http://www.meetup.com/pydelhi/events/226049222/
