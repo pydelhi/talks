@@ -1,5 +1,16 @@
 [
   {
+    "title": "Contributing to Mozilla Marionette & Firefox UI Tests",
+    "presenter": "Sanyam Khurana",
+    "year": 2016,
+    "venue": "PyDelhi",
+    "slides": "http://www.sanyamkhurana.com/marionette-intro/#/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=l1tZaud0GO4"
+    },
+    "tags": ["web", "python", "testing", "mozilla"]
+  },
+  {
     "title": "Testing 101",
     "presenter": "Saurabh Kumar",
     "year": 2015,
@@ -32,5 +43,4 @@
     },
     "tags": ["web", "pyramid", "django"]
   }
-
 ]
