@@ -6,6 +6,11 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
 ## 2016
 
+* [Sanyam Khurana](http://www.sanyamkhurana.com/): **Contributing to Mozilla Marionette & Firefox UI Tests** ([2016-11-27])
+    * [Video](https://www.youtube.com/watch?v=l1tZaud0GO4)
+    * [Presentation](http://www.sanyamkhurana.com/marionette-intro/#/)
+    * [Jupyter Notebook](https://github.com/CuriousLearner/marionette-intro/tree/gh-pages/jupyter_notebooks)
+
 * [Aniket Maithani](http://www.aniketmaithani.net): **IoT & Python** ([2016-09-03])
     * [Presentation](https://drive.google.com/open?id=0B3LQS5ZvGd69YkMwUVdYcGRhckk)
 
