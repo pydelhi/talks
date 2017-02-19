@@ -3,8 +3,17 @@
  [![Open Issues](https://img.shields.io/github/issues/pydelhi/talks.svg)](https://github.com/pydelhi/talks/issues?q=is%3Aopen+)
 
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
+## 2017
+
+* [Aniket Maithani] (http://www.aniketmaithani.net): **Is Random "Random": Random.py**  ([2017-02-18])
+    * [Presentation] (https://drive.google.com/file/d/0B3LQS5ZvGd69RjFDNUtWUkMwVVU/view?usp=sharing)
 
 ## 2016
+
+* [Sanyam Khurana](http://www.sanyamkhurana.com/): **Contributing to Mozilla Marionette & Firefox UI Tests** ([2016-11-27])
+    * [Video](https://www.youtube.com/watch?v=l1tZaud0GO4)
+    * [Presentation](http://www.sanyamkhurana.com/marionette-intro/#/)
+    * [Jupyter Notebook](https://github.com/CuriousLearner/marionette-intro/tree/gh-pages/jupyter_notebooks)
 
 * [Aniket Maithani](http://www.aniketmaithani.net): **IoT & Python** ([2016-09-03])
     * [Presentation](https://drive.google.com/open?id=0B3LQS5ZvGd69YkMwUVdYcGRhckk)
