@@ -3,6 +3,10 @@
  [![Open Issues](https://img.shields.io/github/issues/pydelhi/talks.svg)](https://github.com/pydelhi/talks/issues?q=is%3Aopen+)
 
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
+## 2017
+
+* [Aniket Maithani] (http://www.aniketmaithani.net): **Is Random "Random": Random.py**  ([2017-02-18])
+    * [Presentation] (https://drive.google.com/file/d/0B3LQS5ZvGd69RjFDNUtWUkMwVVU/view?usp=sharing)
 
 ## 2016
 
