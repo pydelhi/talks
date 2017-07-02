@@ -10,6 +10,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * [Presentation](https://github.com/rajat404/talks/blob/master/essential_tools_python/essential_tools.pdf)
     * [Jupyter Notebook](https://github.com/rajat404/talks/blob/master/essential_tools_python/essential_tools.ipynb)
 
+* [Shashank Kumar](http://shanky.xyz) **Make Telegram Bot Using Python And Run On Your Phone** ([2017-06-24])
+    * [Presentation](http://slides.com/realslimshanky/tbotpython)
+
 * [Aniket Maithani](http://www.aniketmaithani.net): **Is Random "Random": Random.py**  ([2017-02-18])
     * [Presentation](https://drive.google.com/file/d/0B3LQS5ZvGd69RjFDNUtWUkMwVVU/view?usp=sharing)
 
