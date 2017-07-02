@@ -6,6 +6,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
 ## 2017
 
+* [Amit Kumar Jaiswal](http://amitkumarj441.github.io/): **Ethereum Blockchain** ([2017-06-24])
+    * [Presentation](https://amitkumarj441.github.io/Presentation/Meetup/PyDelhi_17)
+
 * [Rajat Goyal](http://rajat404.me/): **The essential toolkit of a Python developer** ([2017-06-24])
     * [Presentation](https://github.com/rajat404/talks/blob/master/essential_tools_python/essential_tools.pdf)
     * [Jupyter Notebook](https://github.com/rajat404/talks/blob/master/essential_tools_python/essential_tools.ipynb)
