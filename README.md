@@ -5,6 +5,10 @@
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 ## 2017
 
+* [Rajat Goyal](http://rajat404.me/): **The essential toolkit of a Python developer** ([2017-06-24])
+    * [Presentation](https://github.com/rajat404/talks/blob/master/essential_tools_python/essential_tools.pdf)
+    * [Jupyter Notebook](https://github.com/rajat404/talks/blob/master/essential_tools_python/essential_tools.ipynb)
+
 * [Aniket Maithani](http://www.aniketmaithani.net): **Is Random "Random": Random.py**  ([2017-02-18])
     * [Presentation](https://drive.google.com/file/d/0B3LQS5ZvGd69RjFDNUtWUkMwVVU/view?usp=sharing)
 
