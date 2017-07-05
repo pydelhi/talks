@@ -4,7 +4,7 @@
 
 - Time required for the talk
 
-- Link to slides / demos / any other content
+- Link to slides / demos / any other content (if any)
 
 - About yourself
 
