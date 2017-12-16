@@ -10,7 +10,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * [Presentation](http://slides.com/realslimshanky/python101/)
     
 * [Srihari](https://github.com/pythongiant): **Writing Web Apps in Python using Django** ([2017-09-25])
-    * [Presentation](Writing Web Apps in Python using Django)
+    * [Presentation](https://drive.google.com/open?id=1gGFqVwPkg-besPNui1bwETq68lLNDyIT)
 
 * [Amit Kumar Jaiswal](http://amitkumarj441.github.io/): **Ethereum Blockchain** ([2017-06-24])
     * [Presentation](https://amitkumarj441.github.io/Presentation/Meetup/PyDelhi_17)
