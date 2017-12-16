@@ -6,6 +6,12 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
 ## 2017
 
+* [Shashank Kumar](https://github.com/realslimshanky): **Python 101** ([2017-09-25])
+    * [Presentation](http://slides.com/realslimshanky/python101/)
+    
+* [Srihari](https://github.com/pythongiant): **Writing Web Apps in Python using Django** ([2017-09-25])
+    * [Presentation](https://drive.google.com/open?id=1gGFqVwPkg-besPNui1bwETq68lLNDyIT)
+
 * [Amit Kumar Jaiswal](http://amitkumarj441.github.io/): **Ethereum Blockchain** ([2017-06-24])
     * [Presentation](https://amitkumarj441.github.io/Presentation/Meetup/PyDelhi_17)
 
@@ -60,7 +66,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 * Geetika Batra: **OpenStack** ([2015-08-22])
     * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
 
+[2017-09-25]: https://www.meetup.com/pydelhi/events/lvkpknywpbhc/
 [2017-06-24]: https://www.meetup.com/pydelhi/events/238176680/
+[2017-02-18]: https://www.meetup.com/pydelhi/events/pkdrklywdbxb/
 [2016-09-03]: https://www.meetup.com/pydelhi/events/226342885/
 [2016-05-28]: http://www.meetup.com/pydelhi/events/226342855/
 [2016-04-02]: http://www.meetup.com/pydelhi/events/226049223/
