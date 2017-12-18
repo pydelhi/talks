@@ -5,9 +5,6 @@
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
 ## 2017
-
-* [Sriram](https://github.com/sriramr98): **Implementing efficient Data Structures in Python** ([2017-12-09])
-    * [Repository](https://github.com/sriramr98/Data-Structures-and-Algorithms)
     
 * [Jaidev Deshpande](https://github.com/jaidevd): **Nonstationary Signal Analysis with PyTFTB** ([2017-12-09])
 
