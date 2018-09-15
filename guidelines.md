@@ -6,7 +6,7 @@ audience in the face - select a few people randomly for this. This will
 force audience to follow you around and reduces boredom.
 
 Use the full stage for your talk. Dont just stand at one place. Standing
-just on the podium is the worst thing to do.
+just on the podium is the wog to do.
 
 #### 2. Don't speak in a monotonous voice
 Try to vary your voice to suit the
