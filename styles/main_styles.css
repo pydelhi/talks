@@ -342,14 +342,19 @@ section
 }
 .logo div
 {
+
 	color: #FFFFFF;
 	text-transform: uppercase;
+}
+.logo .r{
+	display: inline-block;
 }
 .logo div:first-of-type
 {
 	font-size: 24px;
 	font-weight: 500;
 	line-height: 0.75;
+	
 }
 .logo div:nth-child(2)
 {
@@ -359,12 +364,13 @@ section
 	letter-spacing: 0.13em;
 	margin-top: 2px;
 	padding-left: 2px;
+	
 }
 .logo_image
 {
 	position: absolute;
 	top: -34px;
-	left: 41px;
+	left: -50px;
 	width: 50px;
 	height: 41px;
 	-webkit-transition: all 400ms ease;
@@ -377,7 +383,7 @@ section
 {
 	width: 40px;
 	top: -28px;
-	left: 46px;
+	left: -50px;
 }
 .logo_image img
 {
