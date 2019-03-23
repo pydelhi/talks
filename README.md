@@ -4,6 +4,11 @@
 
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
+## 2018
+
+* [Suhaib Khan](https://github.com/suheb): **Dabbling with Decorators** ([2018-05-12])
+    * [Presentation](https://drive.google.com/file/d/1__TjXn6hboqajAGwRKcxo-z8JDt_RY-D/view)
+
 ## 2017
     
 * [Jaidev Deshpande](https://github.com/jaidevd): **Nonstationary Signal Analysis with PyTFTB** ([2017-12-09])
@@ -68,6 +73,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 * Geetika Batra: **OpenStack** ([2015-08-22])
     * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
 
+[2018-05-12]: https://www.meetup.com/pydelhi/events/mglhqpyxhbqb/
 [2017-12-09]: https://www.meetup.com/pydelhi/events/lvkpknywqbmb/
 [2017-11-25]: https://www.meetup.com/pydelhi/events/lvkpknywpbhc/
 [2017-06-24]: https://www.meetup.com/pydelhi/events/238176680/
