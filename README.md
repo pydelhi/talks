@@ -29,6 +29,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 * [Shashank Kumar](http://shanky.xyz) **Make Telegram Bot Using Python And Run On Your Phone** ([2017-06-24])
     * [Presentation](http://slides.com/realslimshanky/tbotpython)
 
+* [Amit Kushwaha](https://amitkushwaha.co.in) **Introduction to Convolutional Neural Network** ([2017-04-01])
+    * [Presentation](https://www.slideshare.net/AmitKushwaha25/convolution-neural-network-74377185?from_action=save)
+
 * [Aniket Maithani](http://www.aniketmaithani.net): **Is Random "Random": Random.py**  ([2017-02-18])
     * [Presentation](https://drive.google.com/file/d/0B3LQS5ZvGd69RjFDNUtWUkMwVVU/view?usp=sharing)
 
@@ -77,6 +80,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 [2017-12-09]: https://www.meetup.com/pydelhi/events/lvkpknywqbmb/
 [2017-11-25]: https://www.meetup.com/pydelhi/events/lvkpknywpbhc/
 [2017-06-24]: https://www.meetup.com/pydelhi/events/238176680/
+[2017-04-01]: https://www.meetup.com/pydelhi/events/nsnhsmywgbcb/
 [2017-02-18]: https://www.meetup.com/pydelhi/events/pkdrklywdbxb/
 [2016-09-03]: https://www.meetup.com/pydelhi/events/226342885/
 [2016-05-28]: http://www.meetup.com/pydelhi/events/226342855/
