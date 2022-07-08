@@ -1,0 +1,47 @@
+[
+    {
+      "title": "Contributing to Mozilla Marionette & Firefox UI Tests",
+      "presenter": "Sanyam Khurana",
+      "year": 2016,
+      "venue": "PyDelhi",
+      "slides": "http://www.sanyamkhurana.com/marionette-intro/#/",
+      "videos": {
+        "youtube": "https://www.youtube.com/watch?v=l1tZaud0GO4"
+      },
+      "tags": ["web", "python", "testing", "mozilla"]
+    },
+    {
+      "title": "Testing 101",
+      "presenter": "Saurabh Kumar",
+      "year": 2015,
+      "venue": "PyDelhi",
+      "slides": "http://bit.ly/testing-101",
+      "videos": {
+        "youtube": "https://www.youtube.com/watch?v=_pX8LaMKNBk"
+      },
+      "tags": ["testing", "pytest"]
+    },
+    {
+      "title": "Prospector",
+      "presenter": "Anurag Sharma",
+      "year": 2015,
+      "venue": "PyDelhi",
+      "slides": "http://bit.ly/prospector-talk",
+      "videos": {
+        "youtube": "https://www.youtube.com/watch?v=CnUvdSusebE"
+      },
+      "tags": ["prospector", "static", "analysis"]
+    },
+    {
+      "title": "Moving from Django to Pyramid",
+      "presenter": "Pankaj Singh",
+      "year": 2015,
+      "venue": "PyDelhi",
+      "slides": "http://bit.ly/django2pyramid",
+      "videos": {
+        "youtube": "https://www.youtube.com/watch?v=a2Llc1EGGA4"
+      },
+      "tags": ["web", "pyramid", "django"]
+    }
+  ]
+  

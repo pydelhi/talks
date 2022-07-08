@@ -1,46 +1,47 @@
 [
   {
-    "title": "Contributing to Mozilla Marionette & Firefox UI Tests",
-    "presenter": "Sanyam Khurana",
-    "year": 2016,
-    "venue": "PyDelhi",
-    "slides": "http://www.sanyamkhurana.com/marionette-intro/#/",
+    "title": "Creating a distributed Key Value store",
+    "presenter": "Shubham Upreti",
+    "year": 2022,
+    "venue": "PyDelhi Meetup",
+    "slides": "https://github.com/pydelhi/talks/issues/196",
     "videos": {
-      "youtube": "https://www.youtube.com/watch?v=l1tZaud0GO4"
+      "youtube": "https://www.youtube.com/watch?v=s8mXsJPi5y4"
     },
-    "tags": ["web", "python", "testing", "mozilla"]
+    "tags": ["web", "python", "distributed", "key-value-store"]
   },
   {
-    "title": "Testing 101",
-    "presenter": "Saurabh Kumar",
-    "year": 2015,
-    "venue": "PyDelhi",
-    "slides": "http://bit.ly/testing-101",
+    "title": "GRPC in Python",
+    "presenter": "Dishant Sethi",
+    "year": 2022,
+    "venue": "PyDelhi Meetup",
+    "slides": "https://github.com/pydelhi/talks/issues/198",
     "videos": {
-      "youtube": "https://www.youtube.com/watch?v=_pX8LaMKNBk"
+      "youtube": "https://www.youtube.com/watch?v=6h9I3iyqyu4"
     },
-    "tags": ["testing", "pytest"]
+    "tags": ["web", "python", "grpc", "google"]
   },
   {
-    "title": "Prospector",
-    "presenter": "Anurag Sharma",
-    "year": 2015,
-    "venue": "PyDelhi",
-    "slides": "http://bit.ly/prospector-talk",
+    "title": "Finding high-impact performance bottlenecks in a Django app",
+    "presenter": "Puneet Gupta",
+    "year": 2022,
+    "venue": "PyDelhi Meetup",
+    "slides": "https://docs.google.com/presentation/d/1Elhcf6SbrsF_3ZoIHr66RoFvCsOt-5t8oXYO6Bpb084/edit#slide=id.p",
     "videos": {
-      "youtube": "https://www.youtube.com/watch?v=CnUvdSusebE"
+      "youtube": "https://www.youtube.com/watch?v=hY8DA0klUHM"
     },
-    "tags": ["prospector", "static", "analysis"]
+    "tags": ["django", "python", "web", "performance"]
   },
   {
-    "title": "Moving from Django to Pyramid",
-    "presenter": "Pankaj Singh",
-    "year": 2015,
-    "venue": "PyDelhi",
-    "slides": "http://bit.ly/django2pyramid",
+    "title": "Why Open Source?",
+    "presenter": "Daksh P Jain",
+    "year": 2022,
+    "venue": "PyDelhi Meetup",
+    "slides": "https://github.com/pydelhi/talks/issues/199",
     "videos": {
-      "youtube": "https://www.youtube.com/watch?v=a2Llc1EGGA4"
+      "youtube": "https://www.youtube.com/watch?v=yumTOUH4sBI"
     },
-    "tags": ["web", "pyramid", "django"]
+    "tags": ["open-source"]
   }
+
 ]
