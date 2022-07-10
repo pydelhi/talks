@@ -2,7 +2,12 @@ body {
   background-color: #f1f1f1;
 }
 
-[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+[ng\:cloak],
+[ng-cloak],
+[data-ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak {
   display: none !important;
 }
 
@@ -13,8 +18,9 @@ body {
 .well-video-container {
   background-color: #fefefe;
   border: 0;
-  -webkit-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.10);
-      box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.10);
+  height: 400px;
+  -webkit-box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.1);
 }
 
 .video-container-title {
@@ -27,9 +33,9 @@ body {
 .video-container-thumbnail {
   filter: alpha(opacity=50);
   opacity: 0.5;
-  -webkit-transition: opacity .2s ease-in-out;
-     -moz-transition: opacity .2s ease-in-out;
-          transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity 0.2s ease-in-out;
+  -moz-transition: opacity 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
 }
 
 .video-container-thumbnail:hover {
@@ -41,7 +47,7 @@ body {
 .video-container-info {
   padding: 15px;
   text-align: center;
-  font-size: 1.0em;
+  font-size: 1em;
 }
 
 .video-container-presenter {
@@ -49,14 +55,14 @@ body {
 }
 
 .video-player-container {
-    background-color: #424242;
-    padding: 20px 10px;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    position: absolute;
-    z-index: 10;
+  background-color: #424242;
+  padding: 20px 10px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  z-index: 10;
 }
 .jumbotron {
   margin-bottom: 0;
@@ -68,7 +74,7 @@ body {
   line-height: 1;
   color: #fefefe;
   filter: alpha(opacity=20);
-  opacity: .2;
+  opacity: 0.2;
 }
 
 .jumbotron-close:hover,
