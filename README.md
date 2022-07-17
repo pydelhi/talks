@@ -4,7 +4,7 @@
 
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 
-## 2018
+<!-- ## 2018
 
 * [Suhaib Khan](https://github.com/suheb): **Dabbling with Decorators** ([2018-05-12])
     * [Presentation](https://drive.google.com/file/d/1__TjXn6hboqajAGwRKcxo-z8JDt_RY-D/view)
@@ -74,7 +74,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
     * Video: [Youtube](https://www.youtube.com/watch?v=a2Llc1EGGA4)
 
 * Geetika Batra: **OpenStack** ([2015-08-22])
-    * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing)
+    * [presentation](https://docs.google.com/presentation/d/1vEOhqBLpqVXEoAQkgAFc0xim7myHLnZpFh_7lv567as/edit?usp=sharing) -->
 
 [2018-05-12]: https://www.meetup.com/pydelhi/events/mglhqpyxhbqb/
 [2017-12-09]: https://www.meetup.com/pydelhi/events/lvkpknywqbmb/
@@ -96,6 +96,5 @@ To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
 [Talks]: https://pydelhi.org/talks/
 [new-talk-proposal]: https://github.com/pydelhi/talks/issues/new?title=Proposal:%20%3Ctitle%3E&body=%3Cdescription%3E
 
----
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" property="dct:title" rel="dct:type">Talks</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://pydelhi.org" property="cc:attributionName" rel="cc:attributionURL">PyDelhi</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
