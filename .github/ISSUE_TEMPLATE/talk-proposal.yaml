@@ -1,4 +1,3 @@
-
 name: Talk Proposal
 description: Create a proposal for a talk to be delieverd in monthly PyDelhi Meetups
 labels: ["proposal"]
@@ -13,7 +12,7 @@ body:
     id: title
     attributes:
       label: Title
-      description: Please share the title for your talk
+      description: Please share the title of your talk
       placeholder: We ♥️  Python
     validations:
       required: false
@@ -21,19 +20,19 @@ body:
     id: description
     attributes:
       label: Describe your propsal
-      description: Brief description about the content to be covered
+      description: Brief description about the content you will cover in this talk
     validations:
       required: true
   - type: textarea
     id: prerequisites
     attributes:
-      label: Prerequisites & reading material 
-      description: Anything that needs to distributed before the session
+      label: Pre-requisites & reading material
+      description: Anything that needs to be distributed or shared before the session starts
   - type: input
     id: time
     attributes:
       label: Time required for the talk 
-      description: Please specify how much time does your talk requrires (E.g 30mins, 45mins etc)
+      description: Please specify how much time does your talk requires (E.g 30 mins, 45 mins etc)
     validations:
       required: true
   - type: input
@@ -51,11 +50,12 @@ body:
       description: Briefly describe who you are and what you do. Include your socials like twitter, facebook
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: availability
     attributes:
       label: Availability
-      description: When would you be able to give the talk?
+      description: When would you be able to give this talk?
+      placeholder: DD/MM/YYYY
     validations:
       required: true
   - type: textarea
