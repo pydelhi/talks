@@ -1,0 +1,67 @@
+name: Talk Proposal
+description: Create a proposal for a talk to be delieverd in monthly PyDelhi Meetups
+labels: ["proposal"]
+assignees:
+  - yednapg
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to share your learnings with the community 🐍❤️
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Please share the title of your talk
+      placeholder: We ♥️  Python
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your propsal
+      description: Brief description about the content you will cover in this talk
+    validations:
+      required: true
+  - type: textarea
+    id: prerequisites
+    attributes:
+      label: Pre-requisites & reading material
+      description: Anything that needs to be distributed or shared before the session starts
+  - type: input
+    id: time
+    attributes:
+      label: Time required for the talk 
+      description: Please specify how much time does your talk requires (E.g 30 mins, 45 mins etc)
+    validations:
+      required: true
+  - type: input
+    id: slides
+    attributes:
+      label: Link to slides/demos
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. https://slides.com/....
+    validations:
+      required: false
+  - type: textarea
+    id: about-author
+    attributes:
+      label: About you
+      description: Briefly describe who you are and what you do. Include your socials like twitter, facebook
+    validations:
+      required: true
+  - type: input
+    id: availability
+    attributes:
+      label: Availability
+      description: When would you be able to give this talk?
+      placeholder: DD/MM/YYYY
+    validations:
+      required: true
+  - type: textarea
+    id: comments
+    attributes:
+      label: Any comments
+      description: Share anyother information that you think is necessary
+    validations:
+      required: false
