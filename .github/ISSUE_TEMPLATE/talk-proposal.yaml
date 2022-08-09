@@ -1,5 +1,5 @@
 name: Talk Proposal
-description: Create a proposal for a talk to be delieverd in monthly PyDelhi Meetups
+description: Create a proposal for your talk at PyDelhi Monthly Meetups. 
 labels: ["proposal"]
 assignees:
   - yednapg
@@ -7,20 +7,20 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to share your learnings with the community 🐍❤️
+        Thanks for taking the time to share your learnings with the Python Community! Please note that all talks are licensed under a Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License.
   - type: input
     id: title
     attributes:
       label: Title
       description: Please share the title of your talk
-      placeholder: We ♥️  Python
+      placeholder: For E.g, Introduction to Machine Learning with Python
     validations:
       required: false
   - type: textarea
     id: description
     attributes:
-      label: Describe your propsal
-      description: Brief description about the content you will cover in this talk
+      label: Describe your Talk
+      description: Brief description about your talk in 50-100 words.
     validations:
       required: true
   - type: textarea
@@ -47,7 +47,7 @@ body:
     id: about-author
     attributes:
       label: About you
-      description: Briefly describe who you are and what you do. Include your socials like twitter, facebook
+      description: Briefly describe who you are and what you do. Include your socials like Twitter, Facebook.
     validations:
       required: true
   - type: input
