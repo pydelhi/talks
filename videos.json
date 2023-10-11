@@ -1,5 +1,87 @@
 [
   {
+    "title": "Unleash the Power of Python: Automated Testing for Units, Functions, and APIs",
+    "presenter": "Dr. Shailendra Pratap Singh",
+    "year": 2023,
+    "venue": "PyDelhiConf",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=XtZZhq2rg10&t=336s"
+    },
+    "tags": [
+      "python",
+      "pytest",
+      "testing",
+      "quality-assurance",
+      "automation"
+    ]
+  },
+  {
+    "title": "Data Visualisation in Python",
+    "presenter": "Jaidev Deshpande",
+    "year": 2023,
+    "venue": "PyDelhiConf",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=f0XcIYHTm2A"
+    },
+    "tags": [
+      "python",
+      "data-visualisation",
+      "matplotlib",
+      "pandas",
+      "numpy",
+      "data-analysis"
+    ]
+  },
+  {
+    "title": "Sanic Unleashed: Mastering Asynchronous Unit Testing in Python",
+    "presenter": "Akshita Dixit",
+    "year": 2023,
+    "venue": "PyDelhiConf",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=WZait-ZMki0"
+    },
+    "tags": [
+      "python",
+      "unit-testing",
+      "asynchronous-testing",
+      "sanic-framework"
+    ]
+  },
+  {
+    "title": "Making apps with Kivy",
+    "presenter": "Akshay Aurora",
+    "year": 2023,
+    "venue": "PyDelhiConf",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=dirM8vMb8XY"
+    },
+    "tags": [
+      "python",
+      "kivy",
+      "app-development"
+    ]
+  },
+  {
+    "title": "Scaling ML Models on SageMaker",
+    "presenter": "Sanjay Kumar Tiwary",
+    "year": 2023,
+    "venue": "PyDelhiConf",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=igUYTKmT1vg"
+    },
+    "tags": [
+      "scaling",
+      "amazon-sagemaker",
+      "ml-models",
+      "mlops"
+    ]
+  },
+  {
     "title": "Creating a distributed Key Value store",
     "presenter": "Shubham Upreti",
     "year": 2022,
@@ -8,7 +90,12 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=s8mXsJPi5y4"
     },
-    "tags": ["web", "python", "distributed", "key-value-store"]
+    "tags": [
+      "web",
+      "python",
+      "distributed",
+      "key-value-store"
+    ]
   },
   {
     "title": "GRPC in Python",
@@ -19,7 +106,12 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=6h9I3iyqyu4"
     },
-    "tags": ["web", "python", "grpc", "google"]
+    "tags": [
+      "web",
+      "python",
+      "grpc",
+      "google"
+    ]
   },
   {
     "title": "Finding high-impact performance bottlenecks in a Django app",
@@ -30,7 +122,12 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=hY8DA0klUHM"
     },
-    "tags": ["django", "python", "web", "performance"]
+    "tags": [
+      "django",
+      "python",
+      "web",
+      "performance"
+    ]
   },
   {
     "title": "Why Open Source?",
@@ -41,6 +138,8 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=yumTOUH4sBI"
     },
-    "tags": ["open-source"]
+    "tags": [
+      "open-source"
+    ]
   }
 ]
