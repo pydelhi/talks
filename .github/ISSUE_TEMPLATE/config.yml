@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 PyDelhi Telegram
+    url: https://t.me/PyDelhi_official
+    about: Please use the Telegram group to connect with fellow Pythonistas in Delhi.
+  - name: Q/A Forum
+    url: https://github.com/orgs/pydelhi/discussions
+    about: Use the forum to ask questions about the meetup, help us with Sponsorship, or anything else.
