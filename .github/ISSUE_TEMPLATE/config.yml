@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 💬 PyDelhi WhatsApp
+    url: https://chat.whatsapp.com/IUA2o1Xu8w8LmaZ8bw0nbb
+    about: Please use the WhatsApp community to connect with fellow Pythonistas in and around Delhi/NCR.
   - name: 💬 PyDelhi Telegram
     url: https://t.me/PyDelhi_official
     about: Please use the Telegram group to connect with fellow Pythonistas in and around Delhi/NCR.
