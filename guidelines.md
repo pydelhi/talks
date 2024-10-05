@@ -51,7 +51,7 @@ A well-timed joke or light comment can lighten the mood and help you connect wit
 #### D. Having Code in Your Talk/Slides
 If done nicely, please include it, otherwise it could overwhelm the audience, and real-time tutorials in the talk are usually not recommended by many, but meetups are a safe space where you can try things and not get judged. We are very open to having people experiment with different formats and styles at our meetups.
 
-### E. Include Hooks to Encourage Conversation
+#### E. Include Hooks to Encourage Conversation
 Add points/hooks in your talk that will encourage the audience to approach you after the talk for further discussion. This not only adds value to your talk but also creates opportunities for networking and deeper engagement with attendees.
 
 ### 3. Use the Stage to Your Advantage
@@ -64,8 +64,6 @@ Keep your delivery lively by varying your tone and pitch. A monotone voice can e
 When discussing code or technical processes, especially when demonstrating live coding, emphasize best practices such as **security** and **ethical coding**. For instance, never display sensitive data, like API keys, during your presentation.
 
 ---
-
-Reference: https://github.com/pythonindia/junction/wiki/Speaker-best-practices
 
 
 **Courtesy**: Anand B. Pillai, Aditi Juneja
