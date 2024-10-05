@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to share your learnings with the Python Community! We would highly recommend you go through our [guidelines on submitting a proposal and giving a talk](https://github.com/pydelhi/talks/blob/master/guidelines.md), especialy if it is your first time. Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+        Thanks for taking the time to share your learnings with the Python Community! We would highly recommend you go through our [guidelines on submitting a proposal and giving a talk](https://github.com/pydelhi/talks/blob/master/guidelines.md), especially if it is your first time. Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
   - type: input
     id: title
     attributes:

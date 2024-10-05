@@ -32,7 +32,7 @@ We have a strict [**Code of Conduct**](https://pydelhi.org/coc.html) that all sp
 Here are some tips to help you effectively communicate your message and keep your audience engaged:
 
 ### 1. Get to the Core Message Early
-Begin your talk by getting to the main point within the first 3-5 minutes. Avoid long introductions, as they tend to lose the audience's attention. Try to get the attention of the audience by an interesting title. 
+Begin your talk by getting to the main point within the first 3-5 minutes. Avoid long introductions, as they tend to lose the audience's attention. Try to get the attention of the audience with an interesting title. 
 
 For lightning talks (5 minutes), focus on sparking curiosity rather than covering every detail. If your talk has prerequisites, make sure the audience is aware upfront.
 
@@ -40,16 +40,16 @@ For lightning talks (5 minutes), focus on sparking curiosity rather than coverin
 Engagement is key. Make your presentation interactive by asking questions, encouraging participation, or conducting small activities throughout the talk. Polling tools like [slido.com](https://slido.com) can be used to gather real-time feedback or conduct polls (Not sponsored).
 
 #### A. Use Real-Life Examples
-Simplify complex ideas by using real-life examples or analogies. This makes a technical concepts easier to understand and more relatable to the audience. You can also stick to one motivating example that you can refer to throughout your talk. This helps maintain audience engagement and creates a clear narrative that ties all your points together.
+Simplify complex ideas by using real-life examples or analogies. This makes technical concepts easier to understand and more relatable to the audience. You can also stick to one motivating example that you can refer to throughout your talk. This helps maintain audience engagement and creates a clear narrative that ties all your points together.
 
 #### B. Make the Presentation Visually Engaging
 Avoid text-heavy slides. Use visuals, diagrams, or videos to illustrate your points. Keep slide text to a minimum (4-5 lines max) and use images to support your message. Visual content helps convey information more effectively than blocks of text.
 
-#### C. Add Humor Thoughtfully
-A well-timed joke or light comment can lighten the mood and help you connect with the audience really fast. However, make sure that your humor is appropriate and relevant to the context.
+#### C. Add Humour Thoughtfully
+A well-timed joke or light comment can lighten the mood and help you connect with the audience really fast. However, make sure that your humour is appropriate and relevant to the context.
 
 #### D. Having Code in Your Talk/Slides
-If done nicely, please include it, otherwise it could overwhelm the audience and real-time tutorial in the talk are usually not recommended by many but meetups are a safe space where you can try things and not get judged. We are very open to having people experimenting with different formats and styles at our meetups.
+If done nicely, please include it, otherwise it could overwhelm the audience, and real-time tutorials in the talk are usually not recommended by many, but meetups are a safe space where you can try things and not get judged. We are very open to having people experiment with different formats and styles at our meetups.
 
 ### E. Include Hooks to Encourage Conversation
 Add points/hooks in your talk that will encourage the audience to approach you after the talk for further discussion. This not only adds value to your talk but also creates opportunities for networking and deeper engagement with attendees.
@@ -75,4 +75,4 @@ Happy contributing!
 
 ---
 
-PS: Don't be too bother by all of the above points and just be your true, authentic self and have fun :)
+PS: Don't be too bothered by all of the above points and just be your true, authentic self and have fun :)
