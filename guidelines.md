@@ -17,7 +17,7 @@ Even if your idea is still in development, submit a proposal! We're available to
 Provide as much detail as possible in your proposal. If you already have slides or a brief video summarizing your talk, include them. More detail helps us better understand your talk and give it a fair evaluation. This also helps the audience understand what to expect.
 
 ### 3. Submit Early
-We start reviewing proposals as soon as they come in, so the earlier you submit, the more time you'll have to receive feedback and refine your talk. Proposals submitted early tend to get more attention. Keep in mind that our meetups are held on the third Saturday of each month, so factor that into your availability.
+We start reviewing proposals as soon as they come in, so the earlier you submit, the more time you'll have to receive feedback and refine your talk. Proposals submitted early tend to get more attention. Keep in mind that our **meetups are held on the third Saturday of each month**, so factor that into your availability.
 
 ### 4. Clearly State Prerequisites
 If your talk requires prior knowledge or preparation, make sure to **state this clearly** in your proposal. Providing links to additional resources or reading material can also help the audience better prepare for your talk.
