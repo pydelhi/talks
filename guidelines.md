@@ -1,6 +1,6 @@
 # Guidelines for Submitting a Proposal and Delivering an Impactful Talk
 
-We're excited to welcome proposals for talks and presentations! Whether you're an experienced speaker or new to public speaking, these guidelines will help you submit a strong proposal and deliver an engaging and effective talk. We are here to support you through every step of the process! 
+We're excited to welcome proposals for talks and presentations! Whether you're an experienced speaker or new to public speaking, these guidelines will help you submit a strong proposal and deliver an engaging and effective talk. Keep in mind that these are high-level guidelines, not hard and fast rules. The most important thing is to learn and have fun! And we are always here to support you through every step of the process! 
 
 Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -37,7 +37,7 @@ Begin your talk by getting to the main point within the first 3-5 minutes. Avoid
 For lightning talks (5 minutes), focus on sparking curiosity rather than covering every detail. If your talk has prerequisites, make sure the audience is aware upfront.
 
 ### 2. Keep the Session Interactive
-Engagement is key. Make your presentation interactive by asking questions, encouraging participation, or conducting small activities throughout the talk. Polling tools like [slido.com](https://slido.com) can be used to gather real-time feedback or conduct polls (Not sponsored).
+Engagement is key. Make your presentation interactive by asking questions, encouraging participation, or conducting small activities throughout the talk. You can use tools for audience interaction to gather real-time feedback or conduct polls.
 
 #### A. Use Real-Life Examples
 Simplify complex ideas by using real-life examples or analogies. This makes technical concepts easier to understand and more relatable to the audience. You can also stick to one motivating example that you can refer to throughout your talk. This helps maintain audience engagement and creates a clear narrative that ties all your points together.
@@ -49,7 +49,7 @@ Avoid text-heavy slides. Use visuals, diagrams, or videos to illustrate your poi
 A well-timed joke or light comment can lighten the mood and help you connect with the audience really fast. However, make sure that your humour is appropriate and relevant to the context.
 
 #### D. Having Code in Your Talk/Slides
-If done nicely, please include it, otherwise it could overwhelm the audience, and real-time tutorials in the talk are usually not recommended by many, but meetups are a safe space where you can try things and not get judged. We are very open to having people experiment with different formats and styles at our meetups.
+If done well, please include it. Otherwise, it could overwhelm the audience, as real-time tutorials during talks are usually not recommended by many. However, meetups are a safe space where you can try new things without judgment. We are very open to people experimenting with different formats and styles at our meetups.
 
 #### E. Include Hooks to Encourage Conversation
 Add points/hooks in your talk that will encourage the audience to approach you after the talk for further discussion. This not only adds value to your talk but also creates opportunities for networking and deeper engagement with attendees.
@@ -70,7 +70,3 @@ When discussing code or technical processes, especially when demonstrating live 
 
 
 Happy contributing!
-
----
-
-PS: Don't be too bothered by all of the above points and just be your true, authentic self and have fun :)
