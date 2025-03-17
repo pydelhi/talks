@@ -30,7 +30,7 @@ body:
     id: Resources
     attributes:
       label: Resources
-      description: Anything relevant resources for the reviewer(s) or the audience
+      description: Any relevant resources for the reviewer(s) or the audience
   - type: input
     id: time
     attributes:
