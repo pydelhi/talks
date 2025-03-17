@@ -25,7 +25,12 @@ body:
     id: prerequisites
     attributes:
       label: Pre-requisites & reading material
-      description: Anything that needs to be distributed or shared before the session starts
+      description: Anything that the audience should know/read before the session starts
+  - type: textarea
+    id: Resources
+    attributes:
+      label: Resources
+      description: Any relevant resources for the reviewer(s) or the audience
   - type: input
     id: time
     attributes:
