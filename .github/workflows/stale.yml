@@ -1,0 +1,46 @@
+# Mark proposals as inactive after 60 days of inactivity;
+# See https://github.com/actions/stale for more on configuration
+
+name: Mark open talk proposals as inactive
+on:
+  schedule:
+    #        ┌───────────── minute (0 - 59)
+    #        │  ┌───────────── hour (0 - 23)
+    #        │  │ ┌───────────── day of the month (1 - 31)
+    #        │  │ │ ┌───────────── month (1 - 12 or JAN-DEC)
+    #        │  │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
+    #        │  │ │ │ │
+    - cron: "0 3 * * *" # every day at 3:00 AM UTC
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  stale:
+    permissions:
+      issues: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@5bef64f19d7facfb25b37b414482c7164d639639 # v9.1.0
+        with:
+          days-before-stale: 60 # corresponds to two months/meetups
+          days-before-close: -1 # never close any issues; we'll do this manually.
+          stale-issue-label: "inactive"
+          exempt-issue-labels: "review in progress,meta"
+          remove-stale-when-updated: true
+          stale-issue-message: |
+            Hi there! this proposal has been automatically marked as "inactive" due to it
+            not receiving any activity for the last sixty days.
+
+            To you as a contributor to the PyDelhi community, thank you for your proposal
+            and apologies if this issue fell through the cracks! This ping was created to
+            help bring this proposal a fresh pair of eyes. If you need any help, you can
+            always reach out here on this issue, or email us at
+            [contact@pydelhi.org](mailto:contact@pydelhi.org).
+
+            If you think that this talk is no longer relevant, or that you are no longer
+            available to deliver this talk at one of our meetups in the coming time, you
+            may either close this issue, or the currently active volunteers shall do it
+            at some point in the future. If you are still interested in delivering this
+            talk, please comment on this issue to indicate your interest, and the
+            "inactive" label will be dropped.
