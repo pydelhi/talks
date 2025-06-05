@@ -11,12 +11,8 @@ on:
     #        │  │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
     #        │  │ │ │ │
     - cron: "0 3 15 * *" # 0300 UTC on day 15 of the month
-    - cron: "0 3 * * 6" # 0300 UTC on every Saturday
+    - cron: "0 3 * * 6"  # 0300 UTC on every Saturday
   workflow_dispatch:
-
-concurrency:
-  group: "stale-proposals-workflow"
-  cancel-in-progress: false
 
 permissions: {}
 
