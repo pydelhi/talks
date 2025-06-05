@@ -10,7 +10,8 @@ on:
     #        │  │ │ ┌───────────── month (1 - 12 or JAN-DEC)
     #        │  │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
     #        │  │ │ │ │
-    - cron: "0 3 * * *" # every day at 3:00 AM UTC
+    - cron: "0 3 15 * *" # 0300 UTC on day 15 of the month
+    - cron: "0 3 * * 6"  # 0300 UTC on every Saturday
   workflow_dispatch:
 
 permissions: {}
