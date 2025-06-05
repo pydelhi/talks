@@ -33,7 +33,7 @@ jobs:
           stale-issue-label: "inactive"
           remove-stale-when-updated: true
           stale-issue-message: |
-            Hi there! this proposal has been automatically marked as "inactive" due to it
+            Hi there! This proposal has been automatically marked as "inactive" due to it
             not receiving any activity for the last sixty days.
 
             To you as a contributor to the PyDelhi community, thank you for your proposal
