@@ -220,7 +220,7 @@ body:
           required: true
         - label: "I understand that PyDelhi meetups are community-centric events focused on learning, knowledge sharing, and networking, and I will respect this ethos by not using this platform for self-promotion or hiring pitches during my presentation, unless explicitly invited to do so by means of a sponsorship or similar arrangement"
           required: true
-        - label: "If the talk is recorded by the PyDelhi team, I grant permission to release the video on PyDelhi's YouTube channel under the CC-BY-4.0 license"
+        - label: "If the talk is recorded by the PyDelhi team, I grant permission to release the video on PyDelhi's YouTube channel under the CC-BY-4.0 license, or a different license of my choosing if I am specifying it in my proposal or with the materials I share"
           required: false
 
   - type: textarea
