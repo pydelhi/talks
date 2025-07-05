@@ -26,7 +26,7 @@ body:
       label: Talk description
       description: Brief abstract about your talk (50-150 words). This will be used for our social media.
       placeholder: |
-        Describe what your talk covers, who would benefit from it, and what key takeaways 
+        Describe what your talk covers, who would benefit from it, and what key takeaways
         attendees can expect. This description will be used for promoting your event on social media.
     validations:
       required: true
@@ -61,6 +61,21 @@ body:
         • Q&A (10 mins)
 
         You may update this outline later as you prepare your talk.
+    validations:
+      required: true
+
+  - type: textarea
+    id: takeaways
+    attributes:
+      label: Key takeaways
+      description: What will attendees learn or gain from your talk?
+      placeholder: |
+        Please 3-5 key takeaways that attendees can expect from your talk. Here are some rubrics:
+        • Understanding of [concept/technology/approach]
+        • Practical knowledge of [specific skill/technique]
+        • Best practices for [relevant area]
+        • Common pitfalls to avoid when [doing something]
+        • Resources and next steps for further learning
     validations:
       required: true
 
