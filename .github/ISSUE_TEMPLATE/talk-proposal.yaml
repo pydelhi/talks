@@ -40,6 +40,10 @@ body:
         - Talk (20-25 minutes + Q&A)
         - Workshop (45-60 minutes, hands-on)
         - Lightning talk (5 minutes)
+        - Sponsored talk (20-25 minutes, sponsored by a company or organization as part of a potential partnership or sponsorship arrangement via venue sharing, food and beverages, or other amenities for the event)
+        - BoF (Birds of a Feather) session (30-45 minutes, open discussion or topic exploration with the audience)
+        - Panel discussion (45-60 minutes with multiple speakers discussing a specific topic, followed by audience Q&A – please specify the panelists as well)
+        - Other (please share more details in your proposal)
     validations:
       required: true
 
