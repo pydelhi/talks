@@ -5,16 +5,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        👋 Thanks for taking the time to share your learnings with the Python Community!
+        👋 Thanks for taking the time to share your learnings with the PyDelhi community!
 
-        We would highly recommend you go through our
-        [guidelines on submitting a proposal and presenting](../../guidelines.md), **especially
-        if it is your first time**.
+        We would highly recommend you go through our [guidelines on submitting a proposal and presenting](../../guidelines.md), **especially if it is your first time**.
 
-        Please note that all talks are licensed under a
-        [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/),
-        unless you state otherwise and request the use of a different license of your choosing,
-        either in your proposal below or in the materials you intend to share.
+        Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/), unless you state otherwise and request the use of a different license of your choosing, either in your proposal below or in the materials you intend to share.
 
   - type: input
     id: title
