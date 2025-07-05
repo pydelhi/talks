@@ -1,70 +1,256 @@
-name: 🎙️ Talk Proposal
-description: Create a proposal for your talk at PyDelhi Monthly Meetups. 
+name: 🎙️ Talk proposal
+description: Create a proposal for your talk at the PyDelhi monthly meetups here.
 labels: ["proposal"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to share your learnings with the Python Community! We would highly recommend you go through our [guidelines on submitting a proposal and giving a talk](https://github.com/pydelhi/talks/blob/master/guidelines.md), especially if it is your first time. Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+        👋 Thanks for taking the time to share your learnings with the Python Community!
+
+        We would highly recommend you go through our
+        [guidelines on submitting a proposal and presenting](../../guidelines.md), **especially
+        if it is your first time**.
+
+        Please note that all talks are licensed under a
+        [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/),
+        unless you state otherwise and request the use of a different license of your choosing,
+        either in your proposal below or in the materials you intend to share.
+
   - type: input
     id: title
     attributes:
-      label: Title
-      description: Please share the title of your talk
-      placeholder: For E.g, Introduction to Machine Learning with Python
+      label: Talk title
+      description: Please share a clear, engaging title for your talk
+      placeholder: "e.g.; an introduction to machine learning with Python"
     validations:
-      required: false
+      required: true
+
   - type: textarea
     id: description
     attributes:
-      label: Describe your Talk
-      description: Brief description about your talk in 50-100 words.
+      label: Talk description
+      description: Brief abstract about your talk (50-150 words). This will be used for our social media.
+      placeholder: |
+        Describe what your talk covers, who would benefit from it, and what key takeaways 
+        attendees can expect. This description will be used for promoting your event on social media.
     validations:
       required: true
+
+  - type: dropdown
+    id: format
+    attributes:
+      label: What format do you have in mind?
+      description: Choose the format that best fits your content
+      options:
+        - Talk (20-25 minutes + Q&A)
+        - Workshop (45-60 minutes, hands-on)
+        - Lightning talk (5 minutes)
+    validations:
+      required: true
+
+  - type: textarea
+    id: outline
+    attributes:
+      label: Talk outline / Agenda
+      description: "Please provide a brief outline of your talk's structure"
+      placeholder: |
+        Example:
+        • Introduction to the problem (5 mins)
+        • Core concepts and theory (10 mins)
+        • Live demo/code walkthrough (15 mins)
+        • Best practices and pitfalls (10 mins)
+        • Q&A (10 mins)
+
+        You may update this outline later as you prepare your talk.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: domain
+    attributes:
+      label: What domain would you say your talk falls under?
+      description: This helps us categorise and promote your talk to the right audience.
+      options:
+        - Core Python
+        - Data Science and Machine Learning
+        - Web Development
+        - DevOps & Infrastructure
+        - CLI & Developer Tooling
+        - Testing & Quality Assurance
+        - Mobile Development
+        - Research & Academia
+        - Artificial Intelligence & Deep Learning
+        - Careers and Community
+        - Security
+        - Game Development
+        - Other/Miscellaneous
+    validations:
+      required: true
+
+  - type: input
+    id: duration
+    attributes:
+      label: "Duration (including Q&A)"
+      description: "Please specify the total time needed for your talk, including a Q&A session"
+      placeholder: "For example: 30 minutes (20 minutes for the talk + 10 minutes for a Q&A session)"
+    validations:
+      required: true
+
   - type: textarea
     id: prerequisites
     attributes:
-      label: Pre-requisites & reading material
-      description: Anything that the audience should know/read before the session starts
-  - type: textarea
-    id: Resources
-    attributes:
-      label: Resources
-      description: Any relevant resources for the reviewer(s) or the audience
-  - type: input
-    id: time
-    attributes:
-      label: Time required for the talk 
-      description: Please specify how much time does your talk requires (E.g 30 mins, 45 mins etc)
+      label: Prerequisites and preparation
+      description: What should attendees know or prepare beforehand?
+      placeholder: |
+        For example:
+        • Basic Python knowledge (functions, classes)
+        • Laptop with Python 3.8+ installed
+        • Familiarity with command line basics
+        • No prior experience with [specific technology] needed
+
+        We usually have a diverse audience, so please keep in mind that not everyone may be familiar with advanced topics.
+        If your talk requires specific tools or libraries, please mention them here.
+        If you plan to do a live demo, please ensure you have tested it on the event setup beforehand.
+        If you feel you will need help with this, please let us know.
     validations:
-      required: true
+      required: false
+
+  - type: textarea
+    id: resources
+    attributes:
+      label: Resources & references
+      description: Any helpful resources for reviewers and attendees
+      placeholder: |
+        • Links to relevant documentation
+        • GitHub repositories
+        • Articles or papers
+        • Tools or libraries used
+    validations:
+      required: false
+
   - type: input
     id: slides
     attributes:
-      label: Link to slides/demos
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. https://slides.com/....
+      label: Link to slides/demos (if available)
+      description: Share any existing materials or work-in-progress
+      placeholder: "https://slides.com/... or https://github.com/..."
     validations:
       required: false
+
+  - type: input
+    id: speaker-social-twitter
+    attributes:
+      label: "Twitter/X handle (optional)"
+      description: "Your Twitter/X handle for social media promotion and networking"
+      placeholder: "@yourusername"
+    validations:
+      required: false
+
+  - type: input
+    id: speaker-social-linkedin
+    attributes:
+      label: "LinkedIn profile (optional)"
+      description: "Your LinkedIn profile for professional networking"
+      placeholder: "https://linkedin.com/in/yourusername"
+    validations:
+      required: false
+
+  - type: input
+    id: speaker-pic
+    attributes:
+      label: "Profile picture URL (optional)"
+      description: "We'll use this for event posters and social media. You can use a professional photo, avatar, or any image you're comfortable with being public."
+      placeholder: "https://example.com/your-photo.jpg, GitHub profile picture, Gravatar, and so on"
+    validations:
+      required: false
+
   - type: textarea
     id: about-author
     attributes:
-      label: About you
-      description: Briefly describe who you are and what you do. Include your socials like Twitter, Facebook.
+      label: Speaker bio
+      description: Tell us about yourself! This will be used for speaker introductions and promotional materials.
+      placeholder: |
+        Include:
+        • Your background and current role
+        • Relevant experience with the talk topic
+        • Previous speaking experience (if any)
+        • Fun fact or personal interest
+        • How to reach you (email, social media)
+
+        Don't worry if you're a first-time speaker – we welcome everyone!
     validations:
       required: true
+
   - type: input
     id: availability
     attributes:
       label: Availability
-      description: When would you be able to give this talk?
-      placeholder: DD/MM/YYYY
+      description: When would you be available to give this talk? (PyDelhi meetups are typically organised on the third Saturday of each month)
+      placeholder: "Month/Year or specific dates (DD/MM/YYYY)"
     validations:
       required: true
+
+  - type: textarea
+    id: accessibility
+    attributes:
+      label: Accessibility & special requirements
+      description: Are there any accessibility needs or special technical requirements for your talk?
+      placeholder: |
+        For example:
+        • Screen reader compatibility is needed
+        • Large font requirements
+        • Special AV equipment
+        • Dietary restrictions for the event day
+        • Any other accommodations
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: speaker-agreements
+    attributes:
+      label: Speaker checklist
+      description: "Please confirm the following agreements before submitting your proposal:"
+      options:
+        - label: "I have read and understood the [PyDelhi guidelines](../../guidelines.md) for submitting proposals and giving talks"
+          required: true
+        - label: "I will make my talk accessible to all attendees and will proactively ask for any accommodations or special requirements I might need"
+          required: true
+        - label: "I agree to share slides, code snippets, and other materials used during the talk with the community"
+          required: true
+        - label: "I will follow PyDelhi's Code of Conduct and maintain a welcoming, inclusive environment throughout my participation"
+          required: true
+        - label: "I understand that PyDelhi meetups are community-centric events focused on learning, knowledge sharing, and networking, and I will respect this ethos by not using this platform for self-promotion or hiring pitches during my presentation"
+          required: true
+        - label: "If the talk is recorded by the PyDelhi team, I grant permission to release the video on PyDelhi's YouTube channel under the CC-BY-4.0 license"
+          required: false
+
   - type: textarea
     id: comments
     attributes:
-      label: Any comments
-      description: Share any other information that you think is necessary
+      label: Additional comments
+      description: Anything else you'd like us to know?
+      placeholder: |
+        • Are you a first-time speaker? We're here to help!
+        • Do you need mentorship or feedback on your talk?
+        • Special circumstances or considerations besides the ones stated above?
+        • Do you have any other questions about the process that do not fit the requests stated above?
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## What happens next?
+
+        1. **Review process**: Our team will review your proposal as soon as possible.
+        2. **Feedback**: We may reach out for clarifications or suggestions
+        3. **Confirmation**: Once accepted, we'll coordinate the event logistics with you
+        4. **Support**: First-time speakers can seek mentorship and practice sessions, if needed. Just let us know!
+
+        **Questions?** Reach out to us:
+        - 💬 [WhatsApp community](https://chat.whatsapp.com/IUA2o1Xu8w8LmaZ8bw0nbb)
+        - 📧 Email: pydelhi.org@gmail.com
+        - 💬 [Telegram](https://t.me/PyDelhi_official)
+        - or write to us below! :)
+
+        Thank you for contributing to the Python community in Delhi! 🐍❤️
