@@ -229,6 +229,7 @@ body:
         • Do you need mentorship or feedback on your talk?
         • Special circumstances or considerations besides the ones stated above?
         • Do you have any other questions about the process that do not fit the requests stated above?
+        • Did you find an issue with this questionnaire or have suggestions to improve it? Please let us know here or [open a separate issue](https://github.com/pydelhi/talks/issues/new?template=BLANK_ISSUE), and we will be happy to hear from you!
     validations:
       required: false
 
@@ -247,6 +248,10 @@ body:
         - 📧 Email: pydelhi.org@gmail.com
         - 💬 [Telegram](https://t.me/PyDelhi_official)
         - or write to us below! :)
+
+        ---
+
+        **Improve this questionnaire:** Did you find a bug, or do you have suggestions? Please feel free to add them to the comments above or [open a separate issue](https://github.com/pydelhi/talks/issues/new?template=BLANK_ISSUE) as you prefer. We welcome contributions to improve this proposal form and the overall process!
 
         Thank you for contributing to the Python community in Delhi! 🐍❤️
 
