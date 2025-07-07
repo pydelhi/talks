@@ -32,7 +32,7 @@ body:
       required: true
 
   - type: textarea
-    id: description
+    id: long-description
     attributes:
       label: Long talk description
       description: A longer version of a description about your talk (150-500 words).
