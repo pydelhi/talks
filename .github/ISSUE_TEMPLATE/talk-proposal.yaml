@@ -7,7 +7,7 @@ body:
       value: |
         👋 Thanks for taking the time to share your learnings with the PyDelhi community!
 
-        We would highly recommend you go through our [guidelines on submitting a proposal and presenting](../../guidelines.md), **especially if it is your first time**.
+        We would highly recommend you go through our [guidelines on submitting a proposal and presenting](../guidelines.md), **especially if it is your first time**.
 
         Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/), unless you state otherwise and request the use of a different license of your choosing, either in your proposal below or in the materials you intend to share.
 
@@ -23,11 +23,21 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Talk description
+      label: Short talk description
       description: Brief abstract about your talk (50-150 words). This will be used for our social media.
       placeholder: |
         Describe what your talk covers, who would benefit from it, and what key takeaways
         attendees can expect. This description will be used for promoting your event on social media.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Long talk description
+      description: A longer version of a description about your talk (150-500 words).
+      placeholder: |
+        Add a longer description of your talk: similar to the previous one, but with more details.
     validations:
       required: true
 
@@ -132,7 +142,7 @@ body:
   - type: textarea
     id: resources
     attributes:
-      label: Resources & references
+      label: Resources and references
       description: Any helpful resources for reviewers and attendees
       placeholder: |
         • Links to relevant documentation
@@ -225,7 +235,7 @@ body:
       label: Speaker checklist
       description: "Please confirm the following agreements before submitting your proposal:"
       options:
-        - label: "I have read and understood the [PyDelhi guidelines](../../guidelines.md) for submitting proposals and giving talks"
+        - label: "I have read and understood the [PyDelhi guidelines](../guidelines.md) for submitting proposals and giving talks"
           required: true
         - label: "I will make my talk accessible to all attendees and will proactively ask for any accommodations or special requirements I might need"
           required: true
