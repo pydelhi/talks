@@ -235,7 +235,7 @@ body:
       label: Speaker checklist
       description: "Please confirm the following agreements before submitting your proposal:"
       options:
-        - label: "I have read and understood the [PyDelhi guidelines](../guidelines.md) for submitting proposals and giving talks"
+        - label: "I have read and understood the [PyDelhi guidelines](https://github.com/pydelhi/talks/blob/main/guidelines.md) for submitting proposals and giving talks"
           required: true
         - label: "I will make my talk accessible to all attendees and will proactively ask for any accommodations or special requirements I might need"
           required: true
