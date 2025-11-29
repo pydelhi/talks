@@ -2,7 +2,7 @@
 
 We're excited to welcome proposals for talks and presentations! Whether you're an experienced speaker or new to public speaking, these guidelines will help you submit a strong proposal and deliver an engaging and effective talk. Keep in mind that these are high-level guidelines, not hard and fast rules. The most important thing is to learn and have fun! And we are always here to support you through every step of the process!
 
-**This document is best read alongside our [accessibility guidelines](accessibility_guidelines.md)**, which provide recommendations for making your talks accessible to all attendees.
+**This document is best read alongside our [accessibility guidelines](accessibility.md)**, which provide recommendations for making your talks accessible to all attendees.
 
 Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -45,7 +45,7 @@ Engagement is key. Make your presentation interactive by asking questions, encou
 Simplify complex ideas by using real-life examples or analogies. This makes technical concepts easier to understand and more relatable to the audience. You can also stick to one motivating example that you can refer to throughout your talk. This helps maintain audience engagement and creates a clear narrative that ties all your points together.
 
 #### B. Make the Presentation Visually Engaging
-Avoid text-heavy slides. Use visuals, diagrams, or videos to illustrate your points. Keep slide text to a minimum (4-5 lines max) and use images to support your message. Visual content helps convey information more effectively than blocks of text. For further guidance on fonts, colors, contrast, and other visual accessibility considerations, please refer to our [accessibility guidelines](accessibility_guidelines.md).
+Avoid text-heavy slides. Use visuals, diagrams, or videos to illustrate your points. Keep slide text to a minimum (4-5 lines max) and use images to support your message. Visual content helps convey information more effectively than blocks of text. For further guidance on fonts, colors, contrast, and other visual accessibility considerations, please refer to our [accessibility guidelines](accessibility.md).
 
 #### C. Add Humour Thoughtfully
 A well-timed joke or light comment can lighten the mood and help you connect with the audience really fast. However, make sure that your humour is appropriate and relevant to the context.

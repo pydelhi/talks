@@ -2,7 +2,7 @@
 
 At PyDelhi, we are committed to making our events and content accessible to everyone. We believe that accessibility is a fundamental aspect of inclusivity, and we strive to ensure that all members of our community can fully participate in and benefit from our activities. As part of this commitment, we have set forth the following recommendations for potential speakers to enhance the accessibility of their talks and presentations.
 
-Like the rest of our [general guidelines on submitting proposals and delivering talks](guidelines.md), these are high-level suggestions, not hard and fast rules. We are always here to support you in making your talks and presentations accessible!
+Like the rest of our [general guidelines on submitting proposals and delivering talks](speaking.md), these are high-level suggestions, not hard and fast rules. We are always here to support you in making your talks and presentations accessible!
 
 ## Essential accessibility practices we enforce
 
