@@ -36,7 +36,7 @@ jobs:
               comment.body.includes('Thank you for submitting your proposal')
             );
 
-            return { alreadyResponded: !!botComment };
+            return JSON.stringify({ alreadyResponded: !!botComment });
           result-encoding: string
 
       - name: Post welcome comment
