@@ -264,26 +264,3 @@ body:
     validations:
       required: false
 
-  - type: markdown
-    attributes:
-      value: |
-        ## What happens next?
-
-        1. **Review process**: Our team will review your proposal as soon as possible.
-        2. **Feedback**: We may reach out for clarifications or suggestions
-        3. **Confirmation**: Once accepted, we'll coordinate the event logistics with you
-        4. **Support**: First-time speakers can seek mentorship and practice sessions, if needed. Just let us know!
-
-        **Questions?** Reach out to us:
-        - 💬 [WhatsApp community](https://chat.whatsapp.com/IUA2o1Xu8w8LmaZ8bw0nbb)
-        - 📧 Email: pydelhi.org@gmail.com
-        - 💬 [Telegram](https://t.me/PyDelhi_official)
-        - or write to us below! :)
-
-        ---
-
-        **Improve this questionnaire:** Did you find a bug, or do you have suggestions? Please feel free to add them to the comments above or [open a separate issue](https://github.com/pydelhi/talks/issues/new?template=BLANK_ISSUE) as you prefer. We welcome contributions to improve this proposal form and the overall process!
-
-        Thank you for contributing to the Python community in Delhi! 🐍❤️
-
-        *This proposal form was inspired by and enhanced with ideas from [BangPypers](https://github.com/bangpypers). Thank you to the BangPypers community for sharing best practices!*
