@@ -22,7 +22,7 @@ The PyDelhi volunteer team (@pydelhi/reviewers) has been notified of your submis
 Feel free to:
 - Join the [PyDelhi WhatsApp community](https://chat.whatsapp.com/IUA2o1Xu8w8LmaZ8bw0nbb)
 - Join the [PyDelhi Telegram group](https://t.me/PyDelhi_official)
-- Send us an email at [pydelhi.org@gmail.com](mailto:pydelhi.org@gmail.com)
+- Send us an email at [contact@pydelhi.org](mailto:contact@pydelhi.org)
 - Write to us in a comment below this message! :)
 
 Thank you again for contributing to the Python community in Delhi! 🐍❤️
