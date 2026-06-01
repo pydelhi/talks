@@ -6,6 +6,20 @@ This document is best read alongside our [guidelines for speakers](speaking.md) 
 
 ---
 
+## How proposals are tracked on GitHub
+
+Our review workflow runs entirely through GitHub issues, so you need a GitHub account. You can request to be added to the `@pydelhi/reviewers` team through our internal channels. Each proposal moves through a set of labels that communicate its status to the team at a glance through the issues dashboard, without having to navigate to the issue itself. The current set of labels and their descriptions lives at [github.com/pydelhi/talks/labels](https://github.com/pydelhi/talks/labels).
+
+We believe it is worth documenting a bunch of conventions that may not be obvious from the labels alone:
+
+**Workflow stages.** A proposal usually moves through these phases: submitted and awaiting a reviewer, review in progress, waiting on the author for more information or a response, a decision (accepted, declined, or put on hold), scheduled for a specific date, and finally delivered. There are also format labels (for lightning talks, tutorials, online-only speakers, and so on) and an inactivity label for proposals that have stalled, which automatically happens after sixty days.
+
+**Claiming a proposal.** The "needs reviewer" label works differently from the rest. You remove it when you decide to take on a review, rather than adding a new one. This signals to the team that someone is handling it without requiring a separate action. You may keep an eye on open issues carrying this label when you have capacity to review.
+
+**Keeping labels current.** Labels are only useful if they reflect reality. When a proposal moves to a new stage, please update its labels promptly. A proposal sitting under "review in progress" for three weeks when no one is actively reviewing it is more confusing than having no label at all.
+
+---
+
 ## Guidelines for reviewing proposals
 
 ### 1. Acknowledge proposals promptly
