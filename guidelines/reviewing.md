@@ -104,4 +104,8 @@ Progress here is gradual and cumulative. We already face a diversity challenge i
 
 **Courtesy**: Agriya Khetarpal
 
+**Inspired by**:
+- [SciPy US conference reviewer guidelines](https://scipy-conference.readthedocs.io/en/latest/manual/program/reviewer_guidelines.html)
+- [How to be a SciPy reviewer](https://medium.com/@lorenaabarba/how-to-be-a-scipy-reviewer-d171e9947119), Lorena A. Barba
+
 Happy reviewing!
