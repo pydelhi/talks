@@ -1,6 +1,6 @@
 # PyDelhi reviewers: proposal review guidelines
 
-These guidelines set out how we, as reviewers at PyDelhi, approach evaluating talk proposals, from acknowledgement through to scheduling. Like our guidelines for speakers, these are high-level suggestions, not hard and fast rules. Our approach may differ on a case-by-case basis, and good judgment is always welcome. The goal is to ensure that every speaker receives a fair, thoughtful, and timely review, and that our meetup editions remainss engaging, varied, and accessible.
+These guidelines set out how we, as reviewers at PyDelhi, approach evaluating talk proposals, from acknowledgement through to scheduling. Like our guidelines for speakers, these are high-level suggestions, not hard and fast rules. Our approach may differ on a case-by-case basis, and good judgment is always welcome. The goal is to ensure that every speaker receives a fair, thoughtful, and timely review, and that our meetup editions remain engaging, varied, and accessible.
 
 This document is best read alongside our [guidelines for speakers](speaking.md) and [accessibility guidelines](accessibility.md), which together describe what we look for in a strong proposal and what we ask of our speakers.
 
@@ -84,7 +84,7 @@ A meaningful review requires genuine engagement with the proposal: understanding
 
 Speakers put effort into their proposals. A review synthesised by an AI is not a genuine response to that effort, even if it is polished and coherent. It also means the reviewer has not actually engaged with the proposal, which defeats the purpose of having human reviewers at all. We value honest interactions over ones that prioritise perfect language; a short, imperfect note written by a real person who has actually read the proposal is worth far more than a thorough-sounding response that was not.
 
-If you have used AI assistance in any capacity during a review—for instance, to check grammar, clarify phrasing, or translate—please be transparent about it when sharing your feedback with the team. Disclosures do not make the review illegitimate, but concealment does undermine the trust the process depends on and the reviewers' trustworthiness among each other and unto speakers.
+If you have used AI assistance in any capacity during a review—for instance, to check grammar, clarify phrasing, or translate—please be transparent about it when sharing your feedback with the team. Disclosures do not make the review illegitimate, but concealment undermines the trust the process depends on, and the reviewers' trustworthiness among each other and unto speakers.
 
 If you are short on time, it is much better to say so and ask another reviewer to take the lead, or to hold your feedback until you can give it the attention it deserves, than to produce something that only appears thoughtful.
 
@@ -104,7 +104,7 @@ When there are more strong proposals than available slots in a given month, the 
 
 ### 13. Review timeline
 
-Our meetups are often held on the third Saturday of each month. To give speakers enough time to prepare and, where relevant, to submit slides, proposals should ideally be reviewed and decided at least two to three weeks before the meetup date. If the review team is unavailable and a tight timeline would compromise the review, it is better to carry a proposal forward to the next date than to rush a decision or leave a speaker without a response.
+Our meetups are often held on the third Saturday of each month. To give speakers enough time to prepare and, where relevant, to submit slides, proposals should ideally be reviewed and decided at least two to three weeks before the meetup date. If the review team is unavailable and a tight timeline would compromise the review, it is better to carry a proposal forward to the next date than to rush a decision or leave a speaker waiting.
 
 ### 14. Confidentiality
 
@@ -114,7 +114,7 @@ Internal reviewer discussions about proposals should remain within the review te
 
 This is less about what we do for each incoming proposal and more about what we do over the course of our involvement with the Python community. When the opportunity arises naturally, whether at meetups, online, or with colleagues, invite women, non-binary folks, and underrepresented groups to consider submitting a proposal. Encourage people with expertise in Python internals, packaging, DevOps, testing, performance, and other under-represented technical areas to put in a talk.
 
-Progress here is gradual and cumulative. We already face a diversity challenge in open source and in Python, and we do not want our curation to inadvertently exacerbate it. Every reviewer contributes simply by keeping this goal in mind.
+Our progress here is gradual and cumulative. We already face a diversity challenge in open source and in Python, and we do not want our curation to inadvertently exacerbate it. Every reviewer contributes simply by keeping this goal in mind.
 
 ---
 
