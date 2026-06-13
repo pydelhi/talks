@@ -27,6 +27,11 @@ If your talk requires prior knowledge or preparation, make sure to **state this 
 ### 5. Follow the Code of Conduct
 We have a strict [**Code of Conduct**](https://pydelhi.org/coc.html) that all speakers and participants must follow. Please take a moment to review it before submitting your proposal. Our community is committed to being welcoming, inclusive, and respectful, and we expect the same from all participants. Any form of derogatory or exclusionary language is not tolerated.
 
+### 6. A Note on Currently Popular Topics
+Topics like generative AI, large language models, RAG, and agentic tooling are extremely popular right now, and we receive a large number of proposals on these subjects. We're not closing the door on them, but because we want our monthly programme to stay varied for our regular attendees, proposals in these areas are held to a slightly higher bar for depth, originality, or a fresh angle. (This list shifts with time. Blockchain and web3 were the equivalent a few years ago.)
+
+If your topic falls into one of these spaces, it helps to be explicit about what makes your particular take different: a novel use case, a deep technical dive into internals, hard-won lessons from running something in production, and so on. Our [reviewer guidelines](reviewing.md#holding-oversubscribed-topics-to-a-higher-standard) describe our thinking here in more detail if you'd like context. And if you're unsure whether something similar has been proposed recently, feel free to ask us — we're happy to help you find an angle that stands out.
+
 ---
 
 ## Guidelines for Delivering an Engaging Talk
