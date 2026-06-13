@@ -2,7 +2,7 @@
 
 We're excited to welcome proposals for talks and presentations! Whether you're an experienced speaker or new to public speaking, these guidelines will help you submit a strong proposal and deliver an engaging and effective talk. Keep in mind that these are high-level guidelines, not hard and fast rules. The most important thing is to learn and have fun! And we are always here to support you through every step of the process!
 
-**This document is best read alongside our [accessibility guidelines](accessibility.md)**, which provide recommendations for making your talks accessible to all attendees.
+**This document is best read alongside our [accessibility guidelines](accessibility.md)**, which provide recommendations for making your talks accessible to all attendees. If you're curious about how we review incoming proposals, our [reviewer guidelines](reviewing.md) give some idea of what we look for and how decisions get made.
 
 Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
