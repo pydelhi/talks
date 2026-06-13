@@ -18,6 +18,8 @@ Even if your idea is still in development, submit a proposal! We're available to
 ### 2. Be Detailed
 Provide as much detail as possible in your proposal. If you already have slides or a brief video summarizing your talk, include them. More detail helps us better understand your talk and give it a fair evaluation. This also helps the audience understand what to expect.
 
+Don't worry if you don't have slides ready at submission time. A rough outline or draft deck is perfectly fine, and you can keep refining it as your talk takes shape. That said, we require at least a draft of your slides, demos, or other presentation materials before we can formally confirm acceptance and lock in a date for your talk. This is a firm requirement, though a low bar, since a draft or outline is enough. We check materials against our [accessibility guidelines](accessibility.md) and keep them for archival purposes, so we need something to work with before moving a talk from "under review" to "scheduled."
+
 ### 3. Submit Early
 We start reviewing proposals as soon as they come in, so the earlier you submit, the more time you'll have to receive feedback and refine your talk. Proposals submitted early tend to get more attention. Keep in mind that our **meetups are held on the third Saturday of each month**, so factor that into your availability.
 
