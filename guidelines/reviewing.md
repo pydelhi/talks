@@ -18,6 +18,8 @@ We believe it is worth documenting a bunch of conventions that may not be obviou
 
 **Keeping labels current.** Labels are only useful if they reflect reality. When a proposal moves to a new stage, please update its labels promptly. A proposal sitting under "review in progress" for three weeks when no one is actively reviewing it is more confusing than having no label at all.
 
+**Topic labels.** Alongside the `domain` field in the proposal form, we also tag proposals with more granular topic labels, for example `topic: generative AI - RAG`, `topic: agentic AI`, `topic: blockchain`, `topic: web development`, and so on. These exist for both purposes: to make sorting easier, and to help with the question raised in [§2, Holding oversubscribed topics to a higher standard](#holding-oversubscribed-topics-to-a-higher-standard), as to what counts as an "oversubscribed" topic over time, and a new reviewer cannot be expected to know this from first principles. If you are unsure whether a proposal's topic has come up a lot recently, you can filter open and recently closed issues by its topic label(s) to get a feel for the current landscape before applying that standard. The set of topic labels is expected to grow and split over time as fields mature, so feel free to propose new ones, or split an existing one, when it becomes too broad to be useful.
+
 ---
 
 ## Guidelines for reviewing proposals
@@ -37,6 +39,8 @@ Proposals should be evaluated on the quality and fit of the content, not on the 
 At the time of writing this, generative AI, large language models, RAG-based applications, and various similar topics are heavily oversubscribed at events organised by PyDelhi. They are not prohibited, but when we receive such proposals, the material should demonstrate genuine technical depth, novelty, or a perspective that adds real value to our community. The same applies to topics such as blockchain and web3, which have been popular "bubbles" in the past.
 
 This is a **higher bar, not a ban**. If a proposal in this space does not yet meet it, reviewers should clearly articulate what would make it acceptable rather than simply declining it. Our repeat attendance improves when the programme is varied, and accepting a weak talk on an oversubscribed topic crowds out proposals on distinctive, under-represented areas.
+
+If you're new to reviewing and unsure whether a topic currently falls into this category, see the note on topic labels in [How proposals are tracked on GitHub](#how-proposals-are-tracked-on-github) for a practical way to check.
 
 #### Sponsored talks are not exempt
 
