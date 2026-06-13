@@ -46,6 +46,12 @@ If you're new to reviewing and unsure whether a topic currently falls into this 
 
 Talks from venue or event partners must go through the same review process as community submissions. They should be highly technical and as non-promotional as possible. Sponsors **must not** place restrictions on the content or other speakers in our programme. PyDelhi does not accept such conditions and will decline any proposal that includes them, as a primarily Python and open source, community-centric initiative. We must remain committed to maintaining the integrity and independence of our programme.
 
+#### Watch for promotional content, sponsored or not
+
+Not every promotional proposal arrives labelled as a sponsored talk. Sometimes an individual speaker's proposal is, in substance, a pitch for their employer's product or service, presented as a technical talk. Our proposal form already asks speakers to confirm they will not use the platform for self-promotion or hiring pitches unless arranged through sponsorship, but a checked box does not guarantee the talk's actual content matches that intent, so it is worth watching for during review.
+
+A useful test can be to ask yourself whether the talk still holds together, and still teaches the audience something, if the speaker's product or employer were never named? If stripping out the promotional framing leaves little of substance, ask the speaker to refocus the proposal on the underlying technical content, and decline if that is not possible. The same test applies, even more so, to the sponsored talks described above.
+
 ### 3. Help speakers strengthen their abstract
 
 A weak abstract does not always mean a weak talk. If the topic seems valuable but the proposal lacks detail, clarity, or a clear sense of audience, it is worth asking the speaker to expand on their idea before making a final decision. Sometimes a short follow-up question is enough to unlock a strong proposal – for instance, asking what the main takeaway would be for someone unfamiliar with the subject, or what approach the speaker plans to take. Updates to the proposal questionnaire can be made at any time based on what we deem needed from it, as a living document.
@@ -55,6 +61,8 @@ If you are declining partly because the abstract is unclear, say so explicitly. 
 ### 4. Encourage slide submission
 
 We strongly recommend that speakers submit slides before their talk. Drafts are perfectly fine, and final, polished slides should never be required. The two main reasons for this are our commitment to accessibility and our archival practices. When requesting slides, it helps if we point speakers to our [accessibility guidelines](accessibility.md), which cover our preferences for slide backgrounds, fonts, contrast, and more.
+
+To be explicit about how this works in practice: a proposal can be submitted, reviewed, and discussed without any slides at all. However, we treat at least a draft, an outline, or a rough deck as a prerequisite before formally confirming acceptance and locking in a meetup date. This gives speakers room to develop their material through the review conversation, while still ensuring we have something to check against our accessibility guidelines and to archive once the talk has been delivered.
 
 Exceptions exist: very occasional lightning talks where slides may not apply, or short demos, or talks where there are no supposed slides, or situations where scheduling pressure makes it more practical to accept a speaker for a future meetup date rather than waiting on their materials. Both should remain rare, as exceptions to a norm.
 
