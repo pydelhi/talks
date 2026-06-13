@@ -12,7 +12,7 @@ Our review workflow runs entirely through GitHub issues, so you need a GitHub ac
 
 We believe it is worth documenting a bunch of conventions that may not be obvious from the labels alone:
 
-**Workflow stages.** A proposal usually moves through these phases: submitted and awaiting a reviewer, review in progress, waiting on the author for more information or a response, a decision (accepted, declined, or put on hold), scheduled for a specific date, and finally delivered. There are also format labels (for lightning talks, tutorials, online-only speakers, and so on) and an inactivity label for proposals that have stalled, which automatically happens after sixty days.
+**Workflow stages.** A proposal usually moves through these phases: submitted and awaiting a reviewer, review in progress, waiting on the author for more information or a response, a decision (accepted, declined, or put on hold), scheduled for a specific date, and finally delivered. There are also format labels (for lightning talks, tutorials, online-only speakers, and so on) and an inactivity label for proposals that have stalled, which is applied automatically after sixty days of no activity on either side, whether that is an author who has not responded to a request for information or a reviewer who has not followed up. The exact message posted when this happens is defined in [`.github/workflows/stale.yml`](../.github/workflows/stale.yml).
 
 **Claiming a proposal.** The "needs reviewer" label works differently from the rest. You remove it when you decide to take on a review, rather than adding a new one. This signals to the team that someone is handling it without requiring a separate action. You may keep an eye on open issues carrying this label when you have capacity to review.
 
