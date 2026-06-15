@@ -89,6 +89,11 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        💡 **A note on popular topics**: we currently receive a large number of proposals on generative AI, LLMs, RAG, and agentic tooling. These are very much welcome, but proposals in these areas will be held to a slightly higher bar for depth and originality, simply so our programme stays varied for our regular attendees. If your talk falls here, it helps if you can clearly explain what makes your particular angle different. Please see our [speaking guidelines](https://github.com/pydelhi/talks/blob/main/guidelines/speaking.md#6-a-note-on-currently-popular-topics) for more.
+
   - type: dropdown
     id: domain
     attributes:
@@ -156,7 +161,7 @@ body:
     id: slides
     attributes:
       label: Link to slides/demos (if available)
-      description: Share any existing materials or work-in-progress
+      description: Please share a link to your slides, draft slides, previous recordings of this talk (if any), or a short demo video of yourself giving this talk. This is optional, but highly recommended if you are a first-time speaker. We understand you may not have these ready at the time of proposal submission, and you are welcome to propose a talk even if you don't have these ready yet. We can work with you to prepare them, so please share whatever you have, even if it's a rough draft or an outline. We deem slides and presentation materials as prerequisites for final acceptance and scheduling.
       placeholder: "https://slides.com/... or https://github.com/..."
     validations:
       required: false

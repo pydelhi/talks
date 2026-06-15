@@ -2,7 +2,7 @@
 
 We're excited to welcome proposals for talks and presentations! Whether you're an experienced speaker or new to public speaking, these guidelines will help you submit a strong proposal and deliver an engaging and effective talk. Keep in mind that these are high-level guidelines, not hard and fast rules. The most important thing is to learn and have fun! And we are always here to support you through every step of the process!
 
-**This document is best read alongside our [accessibility guidelines](accessibility.md)**, which provide recommendations for making your talks accessible to all attendees.
+**This document is best read alongside our [accessibility guidelines](accessibility.md)**, which provide recommendations for making your talks accessible to all attendees. If you're curious about how we review incoming proposals, our [reviewer guidelines](reviewing.md) give some idea of what we look for and how decisions get made.
 
 Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -18,6 +18,8 @@ Even if your idea is still in development, submit a proposal! We're available to
 ### 2. Be Detailed
 Provide as much detail as possible in your proposal. If you already have slides or a brief video summarizing your talk, include them. More detail helps us better understand your talk and give it a fair evaluation. This also helps the audience understand what to expect.
 
+Don't worry if you don't have slides ready at submission time. A rough outline or draft deck is perfectly fine, and you can keep refining it as your talk takes shape. That said, we require at least a draft of your slides, demos, or other presentation materials before we can formally confirm acceptance and lock in a date for your talk. This is a firm requirement, though a low bar, since a draft or outline is enough. We check materials against our [accessibility guidelines](accessibility.md) and keep them for archival purposes, so we need something to work with before moving a talk from "under review" to "scheduled."
+
 ### 3. Submit Early
 We start reviewing proposals as soon as they come in, so the earlier you submit, the more time you'll have to receive feedback and refine your talk. Proposals submitted early tend to get more attention. Keep in mind that our **meetups are held on the third Saturday of each month**, so factor that into your availability.
 
@@ -26,6 +28,11 @@ If your talk requires prior knowledge or preparation, make sure to **state this 
 
 ### 5. Follow the Code of Conduct
 We have a strict [**Code of Conduct**](https://pydelhi.org/coc.html) that all speakers and participants must follow. Please take a moment to review it before submitting your proposal. Our community is committed to being welcoming, inclusive, and respectful, and we expect the same from all participants. Any form of derogatory or exclusionary language is not tolerated.
+
+### 6. A Note on Currently Popular Topics
+Topics like generative AI, large language models, RAG, and agentic tooling are extremely popular right now, and we receive a large number of proposals on these subjects. We're not closing the door on them, but because we want our monthly programme to stay varied for our regular attendees, proposals in these areas are held to a slightly higher bar for depth, originality, or a fresh angle. (This list shifts with time. Blockchain and web3 were the equivalent a few years ago.)
+
+If your topic falls into one of these spaces, it helps to be explicit about what makes your particular take different: a novel use case, a deep technical dive into internals, hard-won lessons from running something in production, and so on. Our [reviewer guidelines](reviewing.md#holding-oversubscribed-topics-to-a-higher-standard) describe our thinking here in more detail if you'd like context. And if you're unsure whether something similar has been proposed recently, feel free to ask us — we're happy to help you find an angle that stands out.
 
 ---
 
